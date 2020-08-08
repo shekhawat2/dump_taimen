@@ -1,0 +1,9842 @@
+# file: app
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: app/ModemService
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: app/ModemService/oat
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: app/ModemService/oat/arm64
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: app/ModemService/oat/arm64/ModemService.vdex
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: app/ModemService/oat/arm64/ModemService.odex
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: app/ModemService/ModemService.apk
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: app/wahoo_gfxdrv
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: app/wahoo_gfxdrv/wahoo_gfxdrv.apk
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: app/TimeService
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: app/TimeService/oat
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: app/TimeService/oat/arm64
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: app/TimeService/oat/arm64/TimeService.odex
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: app/TimeService/oat/arm64/TimeService.vdex
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: app/TimeService/TimeService.apk
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: app/QtiTelephonyService
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: app/QtiTelephonyService/oat
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: app/QtiTelephonyService/oat/arm64
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: app/QtiTelephonyService/oat/arm64/QtiTelephonyService.odex
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: app/QtiTelephonyService/oat/arm64/QtiTelephonyService.vdex
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: app/QtiTelephonyService/QtiTelephonyService.apk
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: bin
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::--x
+
+# file: bin/imsrcsd
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/radish
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/ssr_setup
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/awk
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/loc_launcher
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/init.power.sh
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/chre
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/oemlock-bridge
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/time_daemon
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/subsystem_ramdump
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/pktlogconf
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/boringssl_self_test32
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/toolbox
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/pm-service
+# owner: ubuntu
+# group: ubuntu
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/diag_dci_sample
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/toybox_vendor
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/pm-proxy
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/irsc_util
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/pd-mapper
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/ese-ls-provision
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/test_diag
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/lowi-server
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/diag_uart_log
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/imsdatadaemon
+# owner: ubuntu
+# group: ubuntu
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/adsprpcd
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/logwrapper
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/cnd
+# owner: ubuntu
+# group: ubuntu
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/ipacm
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/StoreKeybox
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/ftmdaemon
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/vndservice
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/qseeproxysampledaemon
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/nl_listener
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/tftp_server
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/vndservicemanager
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/PktRspTest
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/ATFWD-daemon
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/oemlock_provision
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/imsqmidaemon
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/oemlock-bridge-client
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/init.qcom.devstart.sh
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/diag_socket_log
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::--x
+
+# file: bin/hw/android.hardware.graphics.allocator@2.0-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/rild
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.gatekeeper@1.0-service-qti
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.drm@1.0-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.power.stats@1.0-service.pixel
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.media.omx@1.0-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.cas@1.2-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.boot@1.0-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.keymaster@3.0-service-qti
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.drm@1.3-service.clearkey
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.atrace@1.0-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.usb@1.1-service.wahoo
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.dumpstate@1.0-service.wahoo
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.configstore@1.1-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.memtrack@1.0-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.drm@1.3-service.widevine
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.camera.provider@2.4-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.gnss@1.0-service-qti
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.audio.service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.biometrics.fingerprint@2.1-service.fpc
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.health@2.0-service.wahoo
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.graphics.composer@2.1-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.oemlock@1.0-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.wifi@1.0-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.nfc@1.1-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.light@2.0-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.bluetooth@1.0-service-qti
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.vibrator-service.drv2624
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.thermal@2.0-service.pixel
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/hostapd
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.sensors@1.0-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.power@1.3-service.pixel-libperfmgr
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/android.hardware.contexthub@1.0-service
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hw/wpa_supplicant
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/boringssl_self_test64
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/dumpsys
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/init.qcom.ipastart.sh
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/qti
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/sh
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/thermal-engine
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/ssr_diag
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/init.ramoops.sh
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/sensors.qcom
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/ese_load
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/init.insmod.sh
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/esed
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/ims_rtp_daemon
+# owner: ubuntu
+# group: google-sudoers
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/netmgrd
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/qseeproxydaemon
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/msm_irqbalance
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/misc_writer
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/cnss-daemon
+# owner: ubuntu
+# group: ubuntu
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/xtra-daemon
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/hostapd_cli
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/athdiag
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/ramoops
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/ese-replay
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/applypatch
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/diag_klog
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/KmInstallKeybox
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/init.radio.sh
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/cnss_diag
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/diag_mdlog
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/qseecom_sample_client
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/rmt_storage
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/WifiLogger_app
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/init.fingerprint.sh
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/qseecomd
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/port-bridge
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: bin/diag_callback_sample
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: build.prop
+# owner: root
+# group: root
+user::rw-
+group::---
+other::---
+
+# file: default.prop
+# owner: root
+# group: root
+user::rw-
+group::---
+other::---
+
+# file: etc
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/seccomp_policy
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/seccomp_policy/configstore@1.1.policy
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/seccomp_policy/mediacodec.policy
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/group
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/chre
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/chre/preloaded_nanoapps.json
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/thermal-engine-vr.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/audio_policy_configuration.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/default-permissions
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/default-permissions/default-permissions.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/sound_trigger_mixer_paths_wcd9340.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/msm_irqbalance.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/public.libraries.txt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/vintf/compatibility_matrix.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/vintf/manifest/android.hardware.usb@1.1-service.wahoo.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest/android.hardware.atrace@1.0-service.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest/android.hardware.power@1.3-service.pixel.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest/android.hardware.cas@1.2-service.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest/android.hardware.thermal@2.0-service.pixel.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest/android.hardware.wifi@1.0-service.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.clearkey.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest/android.hardware.vibrator-service.drv2624.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest/android.hardware.wifi.hostapd.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest/android.hardware.usb.gadget@1.1-service.wahoo.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest/manifest.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/vintf/manifest.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/default_volume_tables.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/izat.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/gps.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/audio_policy_configuration_bluetooth_legacy_hal.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init.insmod_charger.cfg
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/sap.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/usb_audio_policy_configuration.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/sec_config
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/camera
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/camera/imx179_pixel_chromatix.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/camera/camera_config.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/camera/imx362_pixel_chromatix.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/lowi.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/media_codecs_performance.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/NOTICE.xml.gz
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/sensors
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/sensors/sensor_def_wahoo.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/sensors/hals.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/media_codecs_google_video.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/mkshrc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/sound_trigger_platform_info.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/a2dp_audio_policy_configuration.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/a2dp_in_audio_policy_configuration.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/bluetooth_audio_policy_configuration.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init.insmod.cfg
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/perf-profile0.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/selinux/vendor_hwservice_contexts
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/precompiled_sepolicy.plat_sepolicy_and_mapping.sha256
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/precompiled_sepolicy
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/selinux_denial_metadata
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/plat_sepolicy_vers.txt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/vendor_file_contexts
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/vendor_mac_permissions.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/precompiled_sepolicy.system_ext_sepolicy_and_mapping.sha256
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/precompiled_sepolicy.product_sepolicy_and_mapping.sha256
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/plat_pub_versioned.cil
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/vndservice_contexts
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/vendor_service_contexts
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/vendor_property_contexts
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/vendor_sepolicy.cil
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/selinux/vendor_seapp_contexts
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/r_submix_audio_policy_configuration.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/mixer_paths_tavil_taimen.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/passwd
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/thermal-engine.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/media_codecs.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/fs_config_dirs
+# owner: root
+# group: root
+user::r--
+group::r--
+other::r--
+
+# file: etc/media_codecs_google_audio.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/media_profiles_V1_0.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/thermal_info_config.json
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/audio_platform_info_tavil_taimen.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/flp.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/audio_policy_volumes.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/thermal_info_config_evt.json
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/permissions/android.software.sip.voip.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/telephonyservice.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.sensor.barometer.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.sensor.proximity.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.touchscreen.multitouch.jazzhand.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.sensor.accelerometer.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/com.nxp.mifare.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.telephony.carrierlock.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/qcrilhook.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.usb.accessory.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.opengles.aep.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/qti-vzw-ims-internal.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.nfc.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.vulkan.level.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.camera.front.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.sensor.assist.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.usb.host.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.vulkan.compute.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.sensor.stepcounter.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/com.quicinc.cne.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.audio.pro.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/com.google.hardware.camera.easel.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.bluetooth.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.audio.low_latency.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.wifi.direct.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.wifi.passpoint.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.camera.full.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.telephony.ims.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.sensor.light.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.vulkan.version.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/cneapiclient.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.bluetooth_le.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.sensor.hifi_sensors.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.telephony.gsm.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.wifi.aware.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.context_hub.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.software.vulkan.deqp.level.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.camera.raw.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.nfc.hce.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.sensor.gyroscope.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.camera.flash-autofocus.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.location.gps.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/handheld_core_hardware.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.fingerprint.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.vr.high_performance.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.sensor.compass.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.nfc.hcef.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.sensor.stepdetector.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.software.device_id_attestation.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.camera.ar.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.software.midi.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.wifi.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.vr.headtracking.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.telephony.cdma.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/permissions/android.hardware.wifi.rtt.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/acdbdata
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/acdbdata/Bluetooth_cal.acdb
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/acdbdata/Speaker_cal.acdb
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/acdbdata/Headset_cal.acdb
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/acdbdata/Codec_cal.acdb
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/acdbdata/Global_cal.acdb
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/acdbdata/workspaceFile.qwsp
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/acdbdata/Hdmi_cal.acdb
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/acdbdata/General_cal.acdb
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/acdbdata/Handset_cal.acdb
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/audio_effects.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/sysconfig
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/sysconfig/component-overrides.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/fs_config_files
+# owner: root
+# group: root
+user::r--
+group::r--
+other::r--
+
+# file: etc/media_codecs_google_telephony.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/graphite_ipc_platform_info.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/hearing_aid_audio_policy_configuration.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/init/android.hardware.wifi@1.0-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.nfc@1.1-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.audio.service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.vibrator-service.drv2624.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.health@2.0-service.wahoo.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.boot@1.0-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.graphics.allocator@2.0-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/init.taimen.diag.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/init.taimen.logging.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.wifi.supplicant-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.cas@1.2-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.light@2.0-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.graphics.composer@2.1-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.power@1.3-service.pixel-libperfmgr.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.contexthub@1.0-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.usb@1.1-service.wahoo.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.gnss@1.0-service-qti.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.drm@1.3-service.clearkey.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/vendor_flash_recovery.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.biometrics.fingerprint@2.2-service.fpc.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.gatekeeper@1.0-service-qti.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.atrace@1.0-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.media.omx@1.0-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.camera.provider@2.4-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/pixel-mm-legacy.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/init-ramoops.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/hostapd.android.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/hw
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/init/hw/init.taimen.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/hw/init.wahoo.usb.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/hw/init.taimen.usb.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/chre_daemon.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.oemlock@1.0-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.power.stats@1.0-service.pixel.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/init-taimen.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.memtrack@1.0-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/esed.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/rild.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.thermal@2.0-service.pixel.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.drm@1.0-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.dumpstate@1.0-service.wahoo.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/vndservicemanager.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.sensors@1.0-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.configstore@1.1-service.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.bluetooth@1.0-service-qti.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.keymaster@3.0-service-qti.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/boringssl_self_test.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/init/android.hardware.drm@1.3-service.widevine.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/fstab.taimen
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/powerhint.json
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/data
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/data/netmgr_config.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/data/dsi_config.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/IPACM_cfg.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/libnfc-nxp.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/wifi
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: etc/wifi/wpa_supplicant.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/wifi/p2p_supplicant_overlay.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/wifi/wifi_concurrency_cfg.txt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/wifi/wpa_supplicant_overlay.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: etc/qdcm_calib_data_SW43402_cmd_mode_dsc_dsi_panel.xml
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: firmware/venus.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/tas2557s_PG21_uCDSP.bin
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpp_firmware_v1_6_0.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a530_pfp.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a540_gpmu.fw2
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/widevine.b03
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/venus.b03
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.b15
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/adsp.b08
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b07
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/fpctzappfingerprint.b05
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpp_firmware_v1_4_0.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/tas2557s_uCDSP.bin
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/widevine.b01
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b12
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/venus.b01
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/bdwlan.b09
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.b09
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/fpctzappfingerprint.b00
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ftm4_fw_evt1.ftb
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/widevine.b02
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.b16
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/wlanmdsp.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.b01
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/nanoapp_config.textproto
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b01
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/Data.msc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cppf.b06
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/widevine.mdt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cppf.b05
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/wlan
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: firmware/wlan/qca_cld
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: firmware/wlan/qca_cld/WCNSS_qcom_cfg.ini
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cppf.b07
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/venus.mdt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a530v3_seq.fw2
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpp_firmware_v1_8_0.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/fpctzappfingerprint.b01
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b03
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ipa_fws.b00
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ipa_fws.b03
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/adsp.b02
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b02
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b11
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b09
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.b18
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a530v1_pm4.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/fpctzappfingerprint.mdt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a540_zap.b00
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpp_firmware_v1_10_0.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b10
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a530v1_pfp.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/fpctzappfingerprint.b07
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a540_zap.b02
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpp_firmware_v1_5_0.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/adsp.b01
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.b11
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/easel
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: firmware/easel/fip.bin
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/easel/mnh.dtb
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/easel/ramdisk.img
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/easel/Image
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/adsp.b03
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/venus.b02
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a540_zap.b01
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/modemuw.jsn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b06
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a530v2_seq.fw2
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.b07
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/adsp.b09
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/drv2624.bin
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/adsp.b11
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b13
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/venus.b04
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cppf.b04
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.mdt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/widevine.b07
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cppf.b01
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.mdt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/widevine.b05
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cppf.b03
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpp_firmware_v1_12_0.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b04
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/fpctzappfingerprint.b02
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ipa_fws.b02
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.b05
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/fpctzappfingerprint.b03
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cppf.b00
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a540_zap.elf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/venus.b00
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/widevine.b04
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b14
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/widevine.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b00
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cppf.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/fpctzappfingerprint.b06
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ipa_fws.b01
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ese
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: firmware/ese/prodkeys
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: firmware/ese/prodkeys/ese.f201.prodkeys
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ese/prodkeys/ese.f102.prodkeys
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ese/prodkeys/ese.f200.prodkeys
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ese/prodkeys/ese.shadata.prodkeys
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ese/prodkeys/ese.f000.prodkeys
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ese/testkeys
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: firmware/ese/testkeys/ese.f201.testkeys
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ese/testkeys/ese.f102.testkeys
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ese/testkeys/ese.f200.testkeys
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ese/testkeys/ese.f000.testkeys
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ese/testkeys/ese.shadata.testkeys
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpp_firmware_v1_2_0.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ipa_fws.mdt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/widevine.b00
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cppf.b02
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpp_firmware_v1_5_2.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.b20
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b05
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/crnv21.bin
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/adsp.mdt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpp_firmware_v1_1_1.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.b06
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/bdwlan.bin
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a530v3_gpmu.fw2
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a530_gpmu.fw2
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/fpctzappfingerprint.b04
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a530_pm4.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/adsp.b00
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpp_firmware_v1_1_6.fw
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/a540_zap.mdt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cppf.mdt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.b03
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/adsp.b06
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ftm4_fw.ftb
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ftm4_fw_lb.ftb
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/adsp.b04
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/cpe_9340.b13
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/slpi_v2.b08
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/widevine.b06
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/ipa_fws.b04
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/crbtfw21.tlv
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: firmware/adsp.b05
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: framework
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: framework/oat
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: framework/oat/arm64
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: framework/oat/arm64/qti-vzw-ims-internal.odex
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: framework/oat/arm64/qti-vzw-ims-internal.vdex
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: framework/oat/arm
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: framework/oat/arm/qti-vzw-ims-internal.odex
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: framework/oat/arm/qti-vzw-ims-internal.vdex
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: framework/qti-vzw-ims-internal.jar
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib/libchromatix_imx179_pixel_res1_video_30_3a.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_bpc48.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqmi.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res1_video_30_3a.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefrighthw.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res4_video_60_fullfov_cpp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/lib-rtpdaemoninterface.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libvpx.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_gsmdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libnetmgr.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_gamma44.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libssd.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_dbg.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_c2d_module.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_aec_bg_stats47.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/lib-rtpsl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libeglc2d.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libjpegehw.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx179_pixel_res1_video_30_isp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_cpp_module.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/android.hardware.camera.provider@2.4-external.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/sensors.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgnsspps.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsdm-diag.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libloc_api_v02.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqdi.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgnss.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_color_xform_encoder46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_q3a_core.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqmiservices.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_mpeg4enc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_fovcrop_viewfinder46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_stats_modules.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/liblowi_client.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libeffectsconfig.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libcneapiclient.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsns_low_lat_stream_stub.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqmi_csi.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libactuator_lc898214xd.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_common.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_linearization40.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmdsprpc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/lib-rtpcommon.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_pdaf48.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libwvhidl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/camera.device@3.4-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/librilqmiservices.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libloc_core.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libhdrplusclient.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsdmutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libtinycompress.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libhidltransport.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libquipc_os_api.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/com.quicinc.cne.api@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_imglib.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsensorndkbridge.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libOmxVdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_mp3dec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res2_video_60_cpp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/liblbs_core.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/lib-imss.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res4_video_60_fullfov_isp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_hdr48.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_ois_utils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgoog_llv_gpu.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libril.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgcam_frsdk.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libloc_pla.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_sensor_modules.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libadpcmdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_cs_stats46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_mesh_rolloff44.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libloc_stub.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libGPTEE.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_sub_module.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/rfsa
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib/rfsa/adsp
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib/rfsa/adsp/libapps_mem_heap.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/rfsa/adsp/libexternal_dog_skel.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/rfsa/adsp/libhexagon_nn_skel.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/rfsa/adsp/libsns_low_lat_stream_skel.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/rfsa/adsp/libdspCV_skel.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/com.qualcomm.qti.ims.radio@1.1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/com.quicinc.cne.server@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libeaselcontrol.amber.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgcs-calwrapper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libeaselcomm.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgsl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_tintless_algo.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res7_video_30_llv_cpp_preview.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res3_video_120_3a.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libOmxCore.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmotion_ae.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_enc_common.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_eztune_module.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res0_snapshot_3a.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_gic48.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgps.utils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_mpeg4dec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libadiertac.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsdm-disp-apis.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libacdbloader.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_ltm47.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/lib-imsqimf.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_mct.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libflash_pmic.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_amrwbenc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsensor1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libhdrplusclientimpl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsdmextension.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libc2dcolorconvert.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/lib-rtpcore.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libkeymasterprovision.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_mce40.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_stats_lib.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/camera.device@3.6-external-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libtinyxml.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libllvm-glnext.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgoog_eis_armeabi-v7a.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res0_snapshot_cpp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqomx_core.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgpu_tonemapper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libcppf.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/liboemcrypto.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/librs_adreno_sha1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_softomx.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libllvm-qcom.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res3_video_120_cpp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_color_xform_viewfinder46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_amrnbenc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqseed3.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res4_video_60_fullfov_3a.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/lib-imsxml.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libril-qc-radioconfig.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/camera.device@3.5-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx179_pixel_res0_snapshot_3a.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libRSDriver_adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_chroma_enhan40.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgoog_zoom.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/egl
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib/egl/libEGL_adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/egl/libq3dtools_adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/egl/libGLESv2_adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/egl/libq3dtools_esx.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/egl/libGLESv1_CM_adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/egl/eglSubDriverAndroid.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libperipheral_client.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_imx362.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libril-qc-ltedirectdisc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res7_video_30_llv_isp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_eeprom_util.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libdrmtime.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/lib-imsdpl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/camera.device@3.4-external-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/liblocation_api.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libfastcvopt.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libaudcal.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_postproc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libdrm.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libconfigdb.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libwpa_client.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/com.qualcomm.qti.imsrtpservice@1.0_vendor.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libwms.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libacdbrtac.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_aacdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqomx_jpegenc_pipe.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_flacenc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libvoice-svc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_opusdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libidl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/lib-dplmedia.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_chroma_suppress40.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libopus.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libwebrtc_audio_preprocessing.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res1_video_30_cpp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/com.qualcomm.qti.qcril.qcrilhook@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_aacenc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_flacdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_FW_utils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libaudioalsa.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsdmcore.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_facedetection_lib.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/lib-imsrcs.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_vpxdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqmi_client_helper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_gtm46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/mediadrm
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib/mediadrm/libdrmclearkeyplugin.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/librpmb.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_imglib_modules.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_mpeg2dec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res2_video_60_isp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libreference-ril.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libizat_core.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libalsautils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libdiag.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libacdb-fts.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgcs-osal.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/lib_aion_buffer.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsystem_health_mon.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/com.qualcomm.qti.ims.radio@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqomx_jpegenc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqomx_jpegdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/camera.device@3.5-external-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_demux48.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib/hw/gralloc.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/local_time.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/android.hardware.keymaster@3.0-impl-qti.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/android.hardware.soundtrigger@2.2-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/android.hardware.graphics.mapper@2.0-impl-2.1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/audio.primary.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/android.hardware.renderscript@1.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/lights.wahoo.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/memtrack.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/power.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/hwcomposer.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/bootctrl.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/android.hardware.memtrack@1.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/sound_trigger.primary.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/android.hardware.camera.provider@2.4-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/android.hardware.audio.effect@6.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/gralloc.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/activity_recognition.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/audio.r_submix.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/audio.usb.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/vulkan.adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/android.hardware.gnss@1.0-impl-qti.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/android.hardware.drm@1.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/audio.primary.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/gatekeeper.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/audio.bluetooth.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/vibrator.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/android.hardware.bluetooth.audio@2.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/camera.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/sensors.vl530l0.tof.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/hw/android.hardware.audio@6.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/librilutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgoog_llv.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libadm.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res7_video_30_llv_isp_preview.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_rs_stats46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res1_video_30_isp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libcne.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_cac47.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libadsprpc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib/dsp/lowi_client.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/geofence.napp_header
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/mmecns_module.so.1
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/chre_drv_modem.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/gesture.napp_header
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/chre_pal.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/elmyra.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/smartbatching.napp_header
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/libchre_slpi_skel.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/elmyra.napp_header
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/activity.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/imu_cal.napp_header
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/imu_cal.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/chre_drv_loc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/geofence.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/smartbatching.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/EtsiAmrWbPlusDecModule.so.1
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/CFCMModule.so.1
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/chre_drv_wifi.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/activity.napp_header
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/fluence_voiceplus_module.so.1
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/fastrpc_shell_0
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/cc.napp_header
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/gesture.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/SAPlusCmnModule.so.1
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/HpMp2DecoderModule.so.1
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/cc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/HeaacDecoderModule.so.1
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/dsp/EtsiEaacPlusEncAndCmnModule.so.1
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_pdaf.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_hdr_be_stats46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_g711dec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgpustats.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_pp_buf_mgr.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res4_video_240_cpp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmulawdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res0_snapshot_cpp_preview.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmjpeg_interface.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_color_correct46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_scaler_viewfinder46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_rawdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libjpegdmahw.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_demosaic48.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/vendor.qti.qcril.am@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/librs_adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libelmyra-protos.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libGPreqcancel_svc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx179_pixel_res2_video_qtr_3a.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libjson.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgcam_ensemble.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_bf_stats47.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqservice.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgoog_llv_plugin.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx179_pixel_res1_video_30_cpp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqmi_cci.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libhdrplusmessenger.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libhalide_hexagon_host.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_color_xform_video46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsettings.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_scaler_video46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libC2D2.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_zzhdr_common.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libdrmfs.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqdutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgcs.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_hevcdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_softomx_plugin.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqmi_common_so.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libpn553_fw.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmqjpegdma.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res0_snapshot_isp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libloc_ds_api.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmm-omxcore.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libavservices_minijail.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/liblqe.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libtracking_af.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libbt-vendor.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/android.hardware.audio.common-util.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_onsemi_lc898123f40xc_eeprom.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqdMetaData.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_bhist_stats44.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/com.quicinc.cne.constants@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_avcdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx179_pixel_res0_snapshot_isp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_clamp_encoder40.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx179_pixel_common.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libnbaio_mono.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/liblistensoundmodel2.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_iface_modules.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res4_video_240_isp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib/soundfx/libdynproc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libqcomvoiceprocessing.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libvisualizer.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libqcomvoiceprocessingdescriptors.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libldnhncr.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libeffectproxy.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libfmas.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libqcompostprocbundle.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libdownmix.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libbundlewrapper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libaudiopreprocessing.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libqcomvisualizer.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libreverbwrapper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/soundfx/libvolumelistener.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res2_video_60_3a.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res7_video_30_llv_3a.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/camera.device@3.2-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqcci_legacy.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmjpeg.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgoog_zoom_core.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx179_pixel_res0_snapshot_cpp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgoog_zoom_crop.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_amrdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libkeymasterutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/mediacas
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib/mediacas/libclearkeycasplugin.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_clamp_video40.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsensor_reg.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_fovcrop_encoder46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res1_zzhdr_video_30_isp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqmiservices_htc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libpdmapper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/android.hardware.camera.provider@2.4-legacy.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqmiservices_ext.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libOmxVenc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libtime_genoff.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libflp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqmi_encdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res1_zzhdr_video_30_cpp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libkeymasterdeviceutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_snr47.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqmi_client_qmux.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libCB.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/librmp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libril-qcril-hook-oem.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_vorbisdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_clamp_viewfinder40.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res0_snapshot_isp_preview.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmdmdetect.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_thread_services.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmqjpeg_codec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_fovcrop_video46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsdsprpc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_flacdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libhwbinder.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_faceproc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_mct_shimlayer.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgcam_ae.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res3_video_120_isp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libbluetooth_audio_session.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libacdbmapper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/adsp_camera
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib/adsp_camera/libhalide_hexagon_remote_skel.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsmemlog.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libcneqmiutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/com.qualcomm.qti.imsrtpservice@1.0-service-Impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libxml.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_imx179.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libbccQTI.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_scaler_encoder46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_pproc_modules.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/camera.device@1.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_bg_stats46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_ppbase_module.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libdsi_netctrl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_avcenc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/liblowi_wifihal.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libeffects.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res1_zzhdr_video_30_3a.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqcmaputils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libadsp_default_listener.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_pedestal_correct46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_black_level48.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx179_pixel_res2_video_qtr_cpp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libois_lc898123f40.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libsdm-color.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/modules
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib/modules/modules.softdep
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/modules/modules.alias
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/modules/sw49408.ko
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/modules/wlan.ko
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/modules/lge_battery.ko
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/modules/modules.dep
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/modules/modules.load
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/modules/ftm4.ko
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/modules/touch_core_base.ko
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_soft_vpxenc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx179_pixel_postproc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/camera.device@3.3-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libc2d30_bltlib.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libadreno_utils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libvorbisidec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libril-qc-qmi-1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_pdafcamif.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgcs-ipc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_ihist_stats46.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libprotobuf-cpp-lite-3.9.1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_primax_g802l_eeprom.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libdrmutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/lib-rcsimssjni.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_sce40.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx179_pixel_res2_video_qtr_isp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libgeofence.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_isp_modules.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/android.hardware.audio.common@6.0-util.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_interface.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libstagefright_amrnb_common.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqti-perfd-client.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res7_video_30_llv_cpp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libdsutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libqdp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libprotobuf-cpp-full-3.9.1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libQSEEComAPI.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_faceproc2.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera2_stats_algorithm.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libchromatix_imx362_pixel_res4_video_240_3a.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_abf48.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_ppeiscore.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libmmcamera_isp_hdr_bhist_stats44.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib/libjpegdhw.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib64/libthermalioctl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqmi.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libstagefrighthw.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/lib-rtpdaemoninterface.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libnetmgr.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libese.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libssd.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libmmcamera_dbg.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/pixelpowerstats_provider_aidl_interface-V1-cpp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/lib-rtpsl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/sensors.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgnsspps.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsdm-diag.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libloc_api_v02.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqdi.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgnss.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/liboffloadhal.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libmmcamera2_q3a_core.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqmiservices.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/liblowi_client.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libeffectsconfig.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libcneapiclient.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsns_low_lat_stream_stub.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqmi_csi.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/android.hardware.graphics.composer@2.1-resources.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libmdsprpc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/lib-rtpcommon.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/liboemlock-provision.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/vendor.nxp.nxpese@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/librilqmiservices.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libloc_core.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsdmutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libtinycompress.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libhidltransport.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libhwminijail.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libquipc_os_api.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/com.quicinc.cne.api@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libOmxVdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/liblbs_core.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/lib-imss.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libese-app-weaver.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgoog_llv_gpu.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libril.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libloc_pla.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libese-teq1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libloc_stub.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libGPTEE.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/com.qualcomm.qti.ims.radio@1.1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/com.quicinc.cne.server@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libeaselcontrol.amber.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgcs-calwrapper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libeaselcomm.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgsl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libmmcamera_tintless_algo.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libOmxCore.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgps.utils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libadiertac.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsdm-disp-apis.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libacdbloader.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/lib-imsqimf.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libkeystore-engine-wifi-hidl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libnfnetlink.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsensor1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libbtnv.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libhdrplusclientimpl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libese-app-boot.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsdmextension.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libc2dcolorconvert.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/lib-rtpcore.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libkeymasterprovision.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libmmcamera2_stats_lib.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libtinyxml.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libllvm-glnext.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgpu_tonemapper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/librs_adreno_sha1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libllvm-qcom.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqseed3.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/vendor.nxp.nxpnfc@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/lib-imsxml.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libril-qc-radioconfig.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libRSDriver_adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/egl
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib64/egl/libEGL_adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/egl/libq3dtools_adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/egl/libGLESv2_adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/egl/libq3dtools_esx.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/egl/libGLESv1_CM_adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/egl/eglSubDriverAndroid.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/ese_spi_nxp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libperipheral_client.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libSecureUILib.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libril-qc-ltedirectdisc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libdrmtime.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/lib-imsdpl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/liblocation_api.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libaudcal.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libdrm.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libconfigdb.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libwpa_client.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/com.qualcomm.qti.imsrtpservice@1.0_vendor.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libwms.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libacdbrtac.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libvoice-svc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libidl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/lib-dplmedia.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/com.fingerprints.extension@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libwebrtc_audio_preprocessing.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/com.qualcomm.qti.qcril.qcrilhook@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libese-sysdeps.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libaudioalsa.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsdmcore.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/lib-imsrcs.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/vendor.qti.atcmdfwd@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqmi_client_helper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/mediadrm
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib64/mediadrm/libdrmclearkeyplugin.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/librpmb.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libreference-ril.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libizat_core.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libalsautils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libdiag.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libacdb-fts.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgcs-osal.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libdisppower-pixel.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libcld80211.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/lib_aion_buffer.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsystem_health_mon.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/com.qualcomm.qti.ims.radio@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib64/hw/gralloc.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/local_time.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.graphics.allocator@2.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.keymaster@3.0-impl-qti.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.graphics.mapper@2.0-impl-2.1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/audio.primary.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.boot@1.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.renderscript@1.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/lights.wahoo.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/memtrack.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/power.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/hwcomposer.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/bootctrl.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.memtrack@1.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/sound_trigger.primary.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.contexthub@1.0-impl.generic.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/gralloc.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/activity_recognition.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.graphics.composer@2.1-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.sensors@1.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/audio.r_submix.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/audio.usb.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/vulkan.adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.light@2.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.gnss@1.0-impl-qti.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/audio.primary.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/gatekeeper.msm8998.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/audio.bluetooth.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/vibrator.default.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/hw/android.hardware.bluetooth.audio@2.0-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/librilutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libcne.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libadsprpc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgpustats.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libmulawdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/nfc_nci_nxp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libipanat.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libperfmgr.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libhwc2onfbadapter.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/vendor.qti.qcril.am@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/librs_adreno.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libelmyra-protos.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libGPreqcancel_svc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libjson.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqservice.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/liboemlock.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqmi_cci.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libhdrplusmessenger.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsettings.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libC2D2.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libdrmfs.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqdutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgcs.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqmi_common_so.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libkeystore-wifi-hidl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libloc_ds_api.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libmm-omxcore.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/liblqe.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libbt-vendor.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqdMetaData.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsecureui_svcsock.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/com.quicinc.cne.constants@1.0.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libnbaio_mono.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/liblistensoundmodel2.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib64/soundfx/libdynproc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx/libqcomvoiceprocessing.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx/libvisualizer.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx/libqcomvoiceprocessingdescriptors.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx/libldnhncr.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx/libeffectproxy.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx/libqcompostprocbundle.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx/libdownmix.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx/libbundlewrapper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx/libaudiopreprocessing.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx/libqcomvisualizer.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx/libreverbwrapper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/soundfx/libvolumelistener.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/camera.device@3.2-impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqcci_legacy.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgoog_zoom_core.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libkeymasterutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/mediacas
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: lib64/mediacas/libclearkeycasplugin.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libp61-jcop-kit.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsensor_reg.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqmiservices_htc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libpdmapper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqmiservices_ext.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libOmxVenc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libStDrvInt.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libtime_genoff.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libflp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqmi_encdec.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libnetfilter_conntrack.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libkeymasterdeviceutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqmi_client_qmux.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libCB.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/librmp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libril-qcril-hook-oem.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libmdmdetect.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsdsprpc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libhwbinder.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libmmcamera_faceproc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libbluetooth_audio_session.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libacdbmapper.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsmemlog.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libcneqmiutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libhwc2on1adapter.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/com.qualcomm.qti.imsrtpservice@1.0-service-Impl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libxml.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libbccQTI.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libdsi_netctrl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/liblowi_wifihal.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libeffects.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqcmaputils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libadsp_default_listener.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libhexagon_nn_controller.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/librmnetctl.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libsdm-color.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libc2d30_bltlib.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libadreno_utils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libril-qc-qmi-1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgcs-ipc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libprotobuf-cpp-lite-3.9.1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libdrmutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/lib-rcsimssjni.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libese-hw-nxp-pn80t-nq-nci.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libgeofence.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqti-perfd-client.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libese_cpp_nxp_pn80t_nq_nci.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libdsutils.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libqdp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libprotobuf-cpp-full-3.9.1.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libQSEEComAPI.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libmmcamera_faceproc2.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libmmcamera2_stats_algorithm.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lib64/libwifi-hal.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: lost+found
+# owner: root
+# group: root
+user::rwx
+group::---
+other::---
+
+# file: mbn
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/mbn_sw.dig
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/oem_sw.txt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/mbn.ver
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/AUS
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/AUS/Default
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/AUS/Default/VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/AUS/Default/VoLTE/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/AUS/Telstra
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/AUS/Telstra/VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/AUS/Telstra/VoLTE/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/APAC
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/APAC/Reliance
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/APAC/Reliance/Commercial
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/APAC/Reliance/Commercial/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/DT
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/DT/VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/DT/VoLTE/Commercial
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/DT/VoLTE/Commercial/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/H3G
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/H3G/VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/H3G/VoLTE/UK
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/H3G/VoLTE/UK/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/ID
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/ID/Non_VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/ID/Non_VoLTE/UK
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/ID/Non_VoLTE/UK/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Telefonica
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Telefonica/Commercial
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Telefonica/Commercial/DE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Telefonica/Commercial/DE/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Telefonica/Non_VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Telefonica/Non_VoLTE/UK
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Telefonica/Non_VoLTE/UK/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Vodafone
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Vodafone/Lab
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Vodafone/Lab/VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Vodafone/Lab/VoLTE/Germany
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Vodafone/Lab/VoLTE/Germany/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Vodafone/VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Vodafone/VoLTE/Germany
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Vodafone/VoLTE/Germany/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Vodafone/VoLTE/UK
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/Vodafone/VoLTE/UK/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/EE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/EE/Commercial
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/EU/EE/Commercial/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/ROGERS
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/ROGERS/Commercial
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/ROGERS/Commercial/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Koodo
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Koodo/non_VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Koodo/non_VoLTE/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/TMO
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/TMO/Commercial
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/TMO/Commercial/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Videotron
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Videotron/non_VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Videotron/non_VoLTE/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Verizon
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Verizon/hVoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Verizon/hVoLTE/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Telus
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Telus/VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Telus/VoLTE/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/ATT
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/ATT/VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/ATT/VoLTE/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Cricket
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Cricket/VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Cricket/VoLTE/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/USCC
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/USCC/Commercial
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/USCC/Commercial/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Bell
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Bell/VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Bell/VoLTE/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Freedom
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Freedom/VoLTE
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Freedom/VoLTE/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Sprint
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Sprint/Commercial
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/NA/Sprint/Commercial/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/common
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/common/PixelLite
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/common/PixelLite/Commercial
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/common/PixelLite/Commercial/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/common/WildCard
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/common/WildCard/WildCard
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: mbn/mcfg/configs/mcfg_sw/generic/common/WildCard/WildCard/mcfg_sw.mbn
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: media
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: media/ensemble_fd_model.emd
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: media/PFFprec_600.emd
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: media/LMspeed_508.emd
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: odm
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: odm/etc
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: odm/etc/group
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: odm/etc/build.prop
+# owner: root
+# group: root
+user::rw-
+group::---
+other::---
+
+# file: odm/etc/NOTICE.xml.gz
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: odm/etc/passwd
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: overlay
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: overlay/framework-res__auto_generated_rro_vendor.apk
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: perm
+# owner: shekhawat2
+# group: shekhawat2
+user::rw-
+group::rw-
+other::r--
+
+# file: radio
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: radio/qcril_database
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: radio/qcril_database/upgrade
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: radio/qcril_database/upgrade/4_att_mcc_mnc_for_wps.sql
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: radio/qcril_database/upgrade/6_remove_unnecessary_entry.sql
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: radio/qcril_database/upgrade/2_version_add_wps_config.sql
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: radio/qcril_database/upgrade/5_recheck_ecc_setting.sql
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: radio/qcril_database/upgrade/1_version_intro.sql
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: radio/qcril_database/upgrade/7_singapore_ecc_995.sql
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: radio/qcril_database/upgrade/9_remove_germany_ecc_110.sql
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: radio/qcril_database/upgrade/8_germany_ecc_110.sql
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: radio/qcril_database/upgrade/3_version_add_wps_config.sql
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: radio/qcril_database/upgrade/10_israel_normal_ecc.sql
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: radio/qcril_database/qcril.db
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: rfs
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/msm
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/msm/slpi
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/msm/slpi/readonly
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/msm/adsp
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/msm/adsp/readonly
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/msm/adsp/readonly/vendor
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/msm/mpss
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/msm/mpss/readonly
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/msm/mpss/readonly/vendor
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/mdm
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/mdm/slpi
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/mdm/slpi/readonly
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/mdm/adsp
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/mdm/adsp/readonly
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/mdm/adsp/readonly/vendor
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/mdm/tn
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/mdm/tn/readonly
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/mdm/mpss
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/mdm/mpss/readonly
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/mdm/mpss/readonly/vendor
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/apq
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/apq/gnss
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/apq/gnss/readonly
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: rfs/apq/gnss/readonly/vendor
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: ueventd.rc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: usr/idc
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: usr/idc/uinput-fpc.idc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/idc/vr-virtual-touchpad-0.idc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/idc/vr-virtual-touchpad-1.idc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/idc/touchscreen.idc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: usr/keylayout
+# owner: root
+# group: 2000
+user::rwx
+group::r-x
+other::r-x
+
+# file: usr/keylayout/uinput-fpc.kl
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
